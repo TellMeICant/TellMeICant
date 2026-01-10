@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">Coding since: 2024<br>Blender<br>After Effects 2025<br>Beginner with C++, ImGui, Reverse engineering, HTML and much more</p>
+<p align="center">Coding since: 2024<br>Blender<br>After Effects 2025<br>Beginner with C++, ImGui, Rust, HTML and much more</p>
 
 ###
 
